@@ -7,7 +7,7 @@ estou sempre em busca de desenvolvimento pessoal e profissional.
   Naõ so estou na trilha para me tornar uma Engenheira de Machine Learning, como para Analista de Dados.
   
 - 📫 Como me encontrar:
-  Linkedim → https://www.linkedin.com/in/let%C3%ADcia-silva-7ba7a4232/?jobid=1234
+  Linkedin → https://www.linkedin.com/in/let%C3%ADcia-silva-7ba7a4232/?jobid=1234
 
 <!---
 LeticiaS98/LeticiaS98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
